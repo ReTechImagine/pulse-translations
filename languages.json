@@ -15,6 +15,10 @@
       "file": "translations/es.json"
     },
     {
+      "code": "nl",
+      "name": "Dutch",
+      "nativeName": "Nederlands",
+      "file": "translations/nl.json"
       "code": "de",
       "name": "German",
       "nativeName": "Deutsch",
