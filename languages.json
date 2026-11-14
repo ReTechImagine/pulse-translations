@@ -31,6 +31,12 @@
       "name": "German",
       "nativeName": "Deutsch",
       "file": "translations/de.json"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "file": "translations/fr.json"
     }
   ]
 }
